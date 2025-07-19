@@ -166,7 +166,7 @@
         <atlassian.spring.scanner.version>1.2.6</atlassian.spring.scanner.version>
         <bitbucket.version>5.8.0</bitbucket.version>
         <bitbucket.data.version>5.8.0</bitbucket.data.version>
-        <commons.lang3.version>3.5</commons.lang3.version>
+        <commons.lang3.version>3.18.0</commons.lang3.version>
         <gson.version>2.2.2-atlassian-1</gson.version>
         <javax.inject.version>1</javax.inject.version>
         <jsr311.version>1.1.1</jsr311.version>
